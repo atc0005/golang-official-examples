@@ -1,2 +1,4 @@
-# golang-official-examples
-Example code from golang.org and subsites (e.g., blog.golang.org)
+# Golang Examples
+
+Example code based on official code found on golang.org and various related
+sites (e.g., blog.golang.org).
